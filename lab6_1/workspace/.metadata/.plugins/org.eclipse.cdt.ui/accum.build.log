@@ -1,0 +1,30 @@
+17:32:08 **** Incremental Build of configuration Debug for project accum ****
+make all 
+'Building file: ../src/accum.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/accum.o" -IC:/Users/tyxiong2/Desktop/lab6_1/workspace/mb_intro_top/export/mb_intro_top/sw/mb_intro_top/standalone_microblaze_0/bspinclude/include -mno-xl-reorder -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/accum.d" -MT"src/accum.o" -o "src/accum.o" "../src/accum.c"
+../src/accum.c:18:36: warning: initialization of 'volatile uint32_t *' {aka 'volatile long unsigned int *'} from 'int' makes pointer from integer without a cast [-Wint-conversion]
+   18 | volatile uint32_t* led_gpio_data = 0x40000000;
+      |                                    ^~~~~~~~~~
+../src/accum.c:19:34: warning: initialization of 'volatile uint32_t *' {aka 'volatile long unsigned int *'} from 'int' makes pointer from integer without a cast [-Wint-conversion]
+   19 | volatile uint32_t* switch_gpio = 0x40010000;
+      |                                  ^~~~~~~~~~
+../src/accum.c:20:31: warning: initialization of 'volatile uint32_t *' {aka 'volatile long unsigned int *'} from 'int' makes pointer from integer without a cast [-Wint-conversion]
+   20 | volatile uint32_t* btn_gpio = 0x40020000;
+      |                               ^~~~~~~~~~
+'Finished building: ../src/accum.c'
+' '
+'Building target: accum.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LC:/Users/tyxiong2/Desktop/lab6_1/workspace/mb_intro_top/export/mb_intro_top/sw/mb_intro_top/standalone_microblaze_0/bsplib/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "accum.elf"  ./src/accum.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: accum.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size accum.elf  |tee "accum.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   5528	    336	   3104	   8968	   2308	accum.elf
+'Finished building: accum.elf.size'
+' '
+
+17:32:09 Build Finished (took 1s.78ms)
+

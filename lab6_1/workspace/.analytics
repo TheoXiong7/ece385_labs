@@ -1,0 +1,14 @@
+timestamp=[2024-10-16 17:17:35], mode=WORKBENCH_START, duration=0:00:04.244, duration_ms=4244, data={}
+timestamp=[2024-10-16 17:17:35], mode=WORKBENCH_UI_INIT, duration=0:00:00.292, duration_ms=292, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-10-16 17:17:37], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.845, duration_ms=845, data={}
+timestamp=[2024-10-16 17:18:16], mode=APP_CREATION, duration=0:00:05.774, duration_ms=5774, data={name=accum, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=mb_intro_top, application_type=application}
+timestamp=[2024-10-16 17:19:51], mode=PLATFORM_GENERATION, duration=0:00:07.527, duration_ms=7527, data={name=mb_intro_top}
+timestamp=[2024-10-16 17:19:53], mode=BUILD, duration=0:00:01.282, duration_ms=1282, data={name=accum, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 17:20:41], mode=BUILD, duration=0:00:00.781, duration_ms=781, data={name=accum, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 17:21:07], mode=BUILD, duration=0:00:01.156, duration_ms=1156, data={name=accum, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 17:23:12], mode=BUILD, duration=0:00:00.781, duration_ms=781, data={name=accum, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 17:23:25], mode=BUILD, duration=0:00:01.078, duration_ms=1078, data={name=accum, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 17:25:47], mode=BUILD, duration=0:00:01.079, duration_ms=1079, data={name=accum, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 17:27:07], mode=BUILD, duration=0:00:01.078, duration_ms=1078, data={name=accum, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 17:30:10], mode=BUILD, duration=0:00:01.297, duration_ms=1297, data={name=accum, configuration=Debug, clean_build=false}
+timestamp=[2024-10-16 17:32:09], mode=BUILD, duration=0:00:01.093, duration_ms=1093, data={name=accum, configuration=Debug, clean_build=false}
