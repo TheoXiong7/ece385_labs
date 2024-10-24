@@ -9,8 +9,6 @@
 //    For use with ECE 385 USB + HDMI                                    --
 //    University of Illinois ECE Department                              --
 //-------------------------------------------------------------------------
-
-
 module mb_usb_hdmi_top(
     input logic Clk,
     input logic reset_rtl_0,
@@ -120,11 +118,11 @@ module mb_usb_hdmi_top(
         .vsync(vsync),
         .vde(vde),
         
-        //aux Data (unused)
-        .aux0_din(4'b0),
-        .aux1_din(4'b0),
-        .aux2_din(4'b0),
-        .ade(1'b0),
+//        //aux Data (unused)
+//        .aux0_din(4'b0),
+//        .aux1_din(4'b0),
+//        .aux2_din(4'b0),
+//        .ade(1'b0),
         
         //Differential outputs
         .TMDS_CLK_P(hdmi_tmds_clk_p),          

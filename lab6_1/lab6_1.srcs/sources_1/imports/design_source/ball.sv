@@ -15,7 +15,7 @@
 //-------------------------------------------------------------------------
 
 
-module  ball 
+module ball 
 ( 
     input  logic        Reset, 
     input  logic        frame_clk,

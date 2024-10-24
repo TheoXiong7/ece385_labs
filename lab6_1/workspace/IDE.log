@@ -1,17 +1,14 @@
-16:39:42 DEBUG : Logs will be stored at 'C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/IDE.log'.
-16:39:45 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\tyxiong2\Desktop\ece385_labs\lab6_1\workspace\temp_xsdb_launch_script.tcl
-16:39:45 INFO  : Registering command handlers for Vitis TCF services
-16:39:46 INFO  : Platform repository initialization has completed.
-16:39:47 INFO  : XSCT server has started successfully.
-16:39:47 INFO  : Successfully done setting XSCT server connection channel  
-16:39:47 INFO  : plnx-install-location is set to ''
-16:39:47 INFO  : Successfully done setting workspace for the tool. 
-16:39:47 INFO  : Successfully done query RDI_DATADIR 
-16:39:47 INFO  : Restoring global repository preferences: 
-		 C:\Users\tyxiong2\Downloads\lw_usb
-16:39:47 WARN  : Invalid repository path C:\Users\tyxiong2\Downloads\lw_usb.
-16:40:20 INFO  : Result from executing command 'getProjects': mb_usb_hdmi_top
-16:40:20 INFO  : Result from executing command 'getPlatforms': xilinx_vck190_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_202220_1/xilinx_vck190_base_202220_1.xpfm;xilinx_vck190_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_dfx_202220_1/xilinx_vck190_base_dfx_202220_1.xpfm;xilinx_vmk180_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vmk180_base_202220_1/xilinx_vmk180_base_202220_1.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
-16:40:21 WARN  : An unexpected exception occurred in the module 'platform project logging'
-16:40:22 INFO  : Platform 'mb_usb_hdmi_top' is added to custom repositories.
-16:40:24 INFO  : Platform 'mb_usb_hdmi_top' is added to custom repositories.
+17:34:27 DEBUG : Logs will be stored at 'C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/IDE.log'.
+17:34:30 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\tyxiong2\Desktop\ece385_labs\lab6_1\workspace\temp_xsdb_launch_script.tcl
+17:34:30 INFO  : Registering command handlers for Vitis TCF services
+17:34:31 INFO  : Platform repository initialization has completed.
+17:34:33 INFO  : XSCT server has started successfully.
+17:34:33 INFO  : plnx-install-location is set to ''
+17:34:33 INFO  : Successfully done setting XSCT server connection channel  
+17:34:33 INFO  : Successfully done query RDI_DATADIR 
+17:34:33 INFO  : Successfully done setting workspace for the tool. 
+17:35:15 INFO  : Result from executing command 'getProjects': mb_usb_hdmi_top
+17:35:15 INFO  : Result from executing command 'getPlatforms': xilinx_vck190_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_202220_1/xilinx_vck190_base_202220_1.xpfm;xilinx_vck190_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_dfx_202220_1/xilinx_vck190_base_dfx_202220_1.xpfm;xilinx_vmk180_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vmk180_base_202220_1/xilinx_vmk180_base_202220_1.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+17:35:15 WARN  : An unexpected exception occurred in the module 'platform project logging'
+17:35:16 INFO  : Platform 'mb_usb_hdmi_top' is added to custom repositories.
+17:35:19 INFO  : Platform 'mb_usb_hdmi_top' is added to custom repositories.

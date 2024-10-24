@@ -17,7 +17,6 @@
       "gpio_usb_keycode": "",
       "gpio_usb_rst": "",
       "mdm_1": "",
-      "microblaze_0": "",
       "microblaze_0_axi_intc": "",
       "microblaze_0_axi_periph": {
         "xbar": "",
@@ -42,7 +41,8 @@
       "microblaze_0_xlconcat": "",
       "rst_clk_wiz_1_100M": "",
       "spi_usb": "",
-      "timer_usb": ""
+      "timer_usb": "",
+      "microblaze_0": ""
     },
     "interface_ports": {
       "gpio_usb_int": {
@@ -262,83 +262,6 @@
         "xci_name": "mb_usb_mdm_1_0",
         "xci_path": "ip\\mb_usb_mdm_1_0\\mb_usb_mdm_1_0.xci",
         "inst_hier_path": "mdm_1"
-      },
-      "microblaze_0": {
-        "vlnv": "xilinx.com:ip:microblaze:11.0",
-        "xci_name": "mb_usb_microblaze_0_0",
-        "xci_path": "ip\\mb_usb_microblaze_0_0\\mb_usb_microblaze_0_0.xci",
-        "inst_hier_path": "microblaze_0",
-        "parameters": {
-          "C_DEBUG_ENABLED": {
-            "value": "1"
-          },
-          "C_D_AXI": {
-            "value": "1"
-          },
-          "C_D_LMB": {
-            "value": "1"
-          },
-          "C_I_LMB": {
-            "value": "1"
-          },
-          "G_TEMPLATE_LIST": {
-            "value": "8"
-          }
-        },
-        "interface_ports": {
-          "DLMB": {
-            "vlnv": "xilinx.com:interface:lmb_rtl:1.0",
-            "mode": "Master",
-            "address_space_ref": "Data",
-            "base_address": {
-              "minimum": "0x00000000",
-              "maximum": "0xFFFFFFFF",
-              "width": "32"
-            }
-          },
-          "ILMB": {
-            "vlnv": "xilinx.com:interface:lmb_rtl:1.0",
-            "mode": "Master",
-            "address_space_ref": "Instruction",
-            "base_address": {
-              "minimum": "0x00000000",
-              "maximum": "0xFFFFFFFF",
-              "width": "32"
-            }
-          },
-          "M_AXI_DP": {
-            "vlnv": "xilinx.com:interface:aximm_rtl:1.0",
-            "mode": "Master",
-            "address_space_ref": "Data",
-            "base_address": {
-              "minimum": "0x00000000",
-              "maximum": "0xFFFFFFFF",
-              "width": "32"
-            }
-          }
-        },
-        "addressing": {
-          "address_spaces": {
-            "Data": {
-              "range": "4G",
-              "width": "32"
-            },
-            "Instruction": {
-              "range": "4G",
-              "width": "32"
-            }
-          }
-        },
-        "hdl_attributes": {
-          "BMM_INFO_PROCESSOR": {
-            "value": "microblaze-le > mb_usb microblaze_0_local_memory/dlmb_bram_if_cntlr",
-            "value_src": "default"
-          },
-          "KEEP_HIERARCHY": {
-            "value": "yes",
-            "value_src": "default"
-          }
-        }
       },
       "microblaze_0_axi_intc": {
         "vlnv": "xilinx.com:ip:axi_intc:4.1",
@@ -1562,6 +1485,83 @@
             "value": "0"
           }
         }
+      },
+      "microblaze_0": {
+        "vlnv": "xilinx.com:ip:microblaze:11.0",
+        "xci_name": "mb_usb_microblaze_0_0",
+        "xci_path": "ip\\mb_usb_microblaze_0_0\\mb_usb_microblaze_0_0.xci",
+        "inst_hier_path": "microblaze_0",
+        "parameters": {
+          "C_DEBUG_ENABLED": {
+            "value": "1"
+          },
+          "C_D_AXI": {
+            "value": "1"
+          },
+          "C_D_LMB": {
+            "value": "1"
+          },
+          "C_I_LMB": {
+            "value": "1"
+          },
+          "G_TEMPLATE_LIST": {
+            "value": "8"
+          }
+        },
+        "interface_ports": {
+          "DLMB": {
+            "vlnv": "xilinx.com:interface:lmb_rtl:1.0",
+            "mode": "Master",
+            "address_space_ref": "Data",
+            "base_address": {
+              "minimum": "0x00000000",
+              "maximum": "0xFFFFFFFF",
+              "width": "32"
+            }
+          },
+          "ILMB": {
+            "vlnv": "xilinx.com:interface:lmb_rtl:1.0",
+            "mode": "Master",
+            "address_space_ref": "Instruction",
+            "base_address": {
+              "minimum": "0x00000000",
+              "maximum": "0xFFFFFFFF",
+              "width": "32"
+            }
+          },
+          "M_AXI_DP": {
+            "vlnv": "xilinx.com:interface:aximm_rtl:1.0",
+            "mode": "Master",
+            "address_space_ref": "Data",
+            "base_address": {
+              "minimum": "0x00000000",
+              "maximum": "0xFFFFFFFF",
+              "width": "32"
+            }
+          }
+        },
+        "addressing": {
+          "address_spaces": {
+            "Data": {
+              "range": "4G",
+              "width": "32"
+            },
+            "Instruction": {
+              "range": "4G",
+              "width": "32"
+            }
+          }
+        },
+        "hdl_attributes": {
+          "BMM_INFO_PROCESSOR": {
+            "value": "microblaze-le > mb_usb microblaze_0_local_memory/dlmb_bram_if_cntlr",
+            "value_src": "default"
+          },
+          "KEEP_HIERARCHY": {
+            "value": "yes",
+            "value_src": "default"
+          }
+        }
       }
     },
     "interface_nets": {
@@ -1703,7 +1703,6 @@
       "microblaze_0_Clk": {
         "ports": [
           "clk_wiz_1/clk_out1",
-          "microblaze_0/Clk",
           "microblaze_0_axi_periph/ACLK",
           "microblaze_0_axi_periph/S00_ACLK",
           "microblaze_0_axi_periph/M00_ACLK",
@@ -1725,7 +1724,8 @@
           "microblaze_0_axi_periph/M07_ACLK",
           "timer_usb/s_axi_aclk",
           "microblaze_0_axi_periph/M08_ACLK",
-          "spi_usb/ext_spi_clk"
+          "spi_usb/ext_spi_clk",
+          "microblaze_0/Clk"
         ]
       },
       "microblaze_0_intr": {
@@ -1749,8 +1749,8 @@
       "rst_clk_wiz_1_100M_mb_reset": {
         "ports": [
           "rst_clk_wiz_1_100M/mb_reset",
-          "microblaze_0/Reset",
-          "microblaze_0_axi_intc/processor_rst"
+          "microblaze_0_axi_intc/processor_rst",
+          "microblaze_0/Reset"
         ]
       },
       "rst_clk_wiz_1_100M_peripheral_aresetn": {
