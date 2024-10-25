@@ -1,18 +1,18 @@
-TRACE::2024-10-24.17:35:12::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:12::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Do not have an existing db opened. 
-TRACE::2024-10-24.17:35:12::SCWPlatform::Opened new HwDB with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:12::SCWWriter::formatted JSON is {
+TRACE::2024-10-24.23:33:00::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:00::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-24.23:33:00::SCWPlatform::Opened new HwDB with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:00::SCWWriter::formatted JSON is {
 	"platformName":	"mb_usb_hdmi_top",
 	"sprVersion":	"2.0",
 	"mode":	"gui",
 	"dsaType":	"Fixed",
 	"platformDesc":	"mb_usb_hdmi_top",
-	"platHandOff":	"C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
+	"platHandOff":	"C:/Users/theox/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
 	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
 	"deviceType":	"FPGA",
 	"platIsPrebuiltAutogen":	"false",
@@ -22,13 +22,13 @@ TRACE::2024-10-24.17:35:12::SCWWriter::formatted JSON is {
 	"platPreBuiltFlag":	false,
 	"platformSamplesDir":	""
 }
-TRACE::2024-10-24.17:35:12::SCWWriter::formatted JSON is {
+TRACE::2024-10-24.23:33:00::SCWWriter::formatted JSON is {
 	"platformName":	"mb_usb_hdmi_top",
 	"sprVersion":	"2.0",
 	"mode":	"gui",
 	"dsaType":	"Fixed",
 	"platformDesc":	"mb_usb_hdmi_top",
-	"platHandOff":	"C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
+	"platHandOff":	"C:/Users/theox/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
 	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
 	"deviceType":	"FPGA",
 	"platIsPrebuiltAutogen":	"false",
@@ -45,15 +45,15 @@ TRACE::2024-10-24.17:35:12::SCWWriter::formatted JSON is {
 			"systemDispName":	"mb_usb_hdmi_top"
 		}]
 }
-TRACE::2024-10-24.17:35:12::SCWPlatform::Boot application domains not present, creating them
-TRACE::2024-10-24.17:35:12::SCWPlatform::Pure FPGA device, no boot application will be created.
-TRACE::2024-10-24.17:35:12::SCWWriter::formatted JSON is {
+TRACE::2024-10-24.23:33:00::SCWPlatform::Boot application domains not present, creating them
+TRACE::2024-10-24.23:33:00::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2024-10-24.23:33:00::SCWWriter::formatted JSON is {
 	"platformName":	"mb_usb_hdmi_top",
 	"sprVersion":	"2.0",
 	"mode":	"gui",
 	"dsaType":	"Fixed",
 	"platformDesc":	"mb_usb_hdmi_top",
-	"platHandOff":	"C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
+	"platHandOff":	"C:/Users/theox/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
 	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
 	"deviceType":	"FPGA",
 	"platIsPrebuiltAutogen":	"false",
@@ -70,13 +70,13 @@ TRACE::2024-10-24.17:35:12::SCWWriter::formatted JSON is {
 			"systemDispName":	"mb_usb_hdmi_top"
 		}]
 }
-TRACE::2024-10-24.17:35:12::SCWWriter::formatted JSON is {
+TRACE::2024-10-24.23:33:00::SCWWriter::formatted JSON is {
 	"platformName":	"mb_usb_hdmi_top",
 	"sprVersion":	"2.0",
 	"mode":	"gui",
 	"dsaType":	"Fixed",
 	"platformDesc":	"mb_usb_hdmi_top",
-	"platHandOff":	"C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
+	"platHandOff":	"C:/Users/theox/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
 	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
 	"deviceType":	"FPGA",
 	"platIsPrebuiltAutogen":	"false",
@@ -93,115 +93,115 @@ TRACE::2024-10-24.17:35:12::SCWWriter::formatted JSON is {
 			"systemDispName":	"mb_usb_hdmi_top"
 		}]
 }
-TRACE::2024-10-24.17:35:12::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:12::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:12::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:12::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:12::SCWDomain::checking for install qemu data   : 
-TRACE::2024-10-24.17:35:12::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:12::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:12::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:12::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:12::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:12::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:12::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:12::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:12::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:12::SCWMssOS::DEBUG:  swdes dump  
-TRACE::2024-10-24.17:35:12::SCWMssOS::No sw design opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:12::SCWMssOS::mss does not exists at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:12::SCWMssOS::Creating sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:12::SCWMssOS::Adding the swdes entry, created swdb C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:12::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:12::SCWMssOS::Writing mss at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:12::SCWMssOS::Completed writing the mss file at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
-TRACE::2024-10-24.17:35:12::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
-TRACE::2024-10-24.17:35:12::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
-TRACE::2024-10-24.17:35:12::SCWMssOS::Completed writing the mss file at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
-TRACE::2024-10-24.17:35:12::SCWMssOS::Forcing BSP Sources regeneration.
-TRACE::2024-10-24.17:35:14::SCWMssOS::Saving the mss changes C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
-TRACE::2024-10-24.17:35:14::SCWMssOS::Writing the mss file completed C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWMssOS::Commit changes completed.
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:14::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:00::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:00::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:00::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:00::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:00::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-24.23:33:00::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:00::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:00::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:00::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:00::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:00::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:00::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:00::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-24.23:33:00::SCWMssOS::No sw design opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:00::SCWMssOS::mss does not exists at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:00::SCWMssOS::Creating sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:00::SCWMssOS::Adding the swdes entry, created swdb C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:00::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:00::SCWMssOS::Writing mss at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:00::SCWMssOS::Completed writing the mss file at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-24.23:33:00::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-24.23:33:00::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-24.23:33:00::SCWMssOS::Completed writing the mss file at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-24.23:33:00::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2024-10-24.23:33:02::SCWMssOS::Saving the mss changes C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-10-24.23:33:02::SCWMssOS::Writing the mss file completed C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::Commit changes completed.
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:14::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:14::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:14::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:14::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:14::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWWriter::formatted JSON is {
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWWriter::formatted JSON is {
 	"platformName":	"mb_usb_hdmi_top",
 	"sprVersion":	"2.0",
 	"mode":	"gui",
 	"dsaType":	"Fixed",
 	"platformDesc":	"mb_usb_hdmi_top",
-	"platHandOff":	"C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
+	"platHandOff":	"C:/Users/theox/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
 	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
 	"deviceType":	"FPGA",
 	"platIsPrebuiltAutogen":	"false",
@@ -251,97 +251,97 @@ TRACE::2024-10-24.17:35:14::SCWWriter::formatted JSON is {
 				}]
 		}]
 }
-LOG::2024-10-24.17:35:14::SCWPlatform::Started generating the artifacts platform mb_usb_hdmi_top
-TRACE::2024-10-24.17:35:14::SCWPlatform::Sanity checking of platform is completed
-LOG::2024-10-24.17:35:14::SCWPlatform::Started generating the artifacts for system configuration mb_usb_hdmi_top
-LOG::2024-10-24.17:35:14::SCWSystem::Checking the domain standalone_microblaze_0
-LOG::2024-10-24.17:35:14::SCWSystem::Not a boot domain 
-LOG::2024-10-24.17:35:14::SCWSystem::Started Processing the domain standalone_microblaze_0
-TRACE::2024-10-24.17:35:14::SCWDomain::Generating domain artifcats
-TRACE::2024-10-24.17:35:14::SCWMssOS::Generating standalone artifcats
-TRACE::2024-10-24.17:35:14::SCWMssOS:: Copying the user libraries. 
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:14::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+LOG::2024-10-24.23:33:02::SCWPlatform::Started generating the artifacts platform mb_usb_hdmi_top
+TRACE::2024-10-24.23:33:02::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-24.23:33:02::SCWPlatform::Started generating the artifacts for system configuration mb_usb_hdmi_top
+LOG::2024-10-24.23:33:02::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-10-24.23:33:02::SCWSystem::Not a boot domain 
+LOG::2024-10-24.23:33:02::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-10-24.23:33:02::SCWDomain::Generating domain artifcats
+TRACE::2024-10-24.23:33:02::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-24.23:33:02::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:14::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWMssOS::Completed writing the mss file at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
-TRACE::2024-10-24.17:35:14::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
-TRACE::2024-10-24.17:35:14::SCWMssOS::BSP is already built. skipping the bsp build ... 
-TRACE::2024-10-24.17:35:14::SCWDomain::Skipping the build for domain :  standalone_microblaze_0
-TRACE::2024-10-24.17:35:14::SCWMssOS::skipping the bsp build ... 
-TRACE::2024-10-24.17:35:14::SCWMssOS::Copying to export directory.
-TRACE::2024-10-24.17:35:14::SCWMssOS:: Checking if to create the Supporting Applications
-TRACE::2024-10-24.17:35:14::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
-LOG::2024-10-24.17:35:14::SCWSystem::Completed Processing the domain standalone_microblaze_0
-LOG::2024-10-24.17:35:14::SCWSystem::Completed Processing the sysconfig mb_usb_hdmi_top
-LOG::2024-10-24.17:35:14::SCWPlatform::Completed generating the artifacts for system configuration mb_usb_hdmi_top
-TRACE::2024-10-24.17:35:14::SCWPlatform::Started preparing the platform 
-TRACE::2024-10-24.17:35:14::SCWSystem::Writing the bif file for system config mb_usb_hdmi_top
-TRACE::2024-10-24.17:35:14::SCWSystem::dir created 
-TRACE::2024-10-24.17:35:14::SCWSystem::Writing the bif 
-TRACE::2024-10-24.17:35:14::SCWPlatform::Started writing the spfm file 
-TRACE::2024-10-24.17:35:14::SCWPlatform::Started writing the xpfm file 
-TRACE::2024-10-24.17:35:14::SCWPlatform::Completed generating the platform
-TRACE::2024-10-24.17:35:14::SCWMssOS::Saving the mss changes C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWMssOS::Found a swdesign opened with the mssfile.
-TRACE::2024-10-24.17:35:14::SCWMssOS::Completed writemss as part of save.
-TRACE::2024-10-24.17:35:14::SCWMssOS::Commit changes completed.
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:14::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::Completed writing the mss file at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-24.23:33:02::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-24.23:33:02::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-24.23:33:02::SCWDomain::Skipping the build for domain :  standalone_microblaze_0
+TRACE::2024-10-24.23:33:02::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-10-24.23:33:02::SCWMssOS::Copying to export directory.
+TRACE::2024-10-24.23:33:02::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-24.23:33:02::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-24.23:33:02::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-10-24.23:33:02::SCWSystem::Completed Processing the sysconfig mb_usb_hdmi_top
+LOG::2024-10-24.23:33:02::SCWPlatform::Completed generating the artifacts for system configuration mb_usb_hdmi_top
+TRACE::2024-10-24.23:33:02::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-24.23:33:02::SCWSystem::Writing the bif file for system config mb_usb_hdmi_top
+TRACE::2024-10-24.23:33:02::SCWSystem::dir created 
+TRACE::2024-10-24.23:33:02::SCWSystem::Writing the bif 
+TRACE::2024-10-24.23:33:02::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-24.23:33:02::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-24.23:33:02::SCWPlatform::Completed generating the platform
+TRACE::2024-10-24.23:33:02::SCWMssOS::Saving the mss changes C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-24.23:33:02::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-24.23:33:02::SCWMssOS::Commit changes completed.
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:14::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:14::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:14::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:14::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:14::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:14::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:14::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:14::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWWriter::formatted JSON is {
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWWriter::formatted JSON is {
 	"platformName":	"mb_usb_hdmi_top",
 	"sprVersion":	"2.0",
 	"mode":	"gui",
 	"dsaType":	"Fixed",
 	"platformDesc":	"mb_usb_hdmi_top",
-	"platHandOff":	"C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
+	"platHandOff":	"C:/Users/theox/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
 	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
 	"deviceType":	"FPGA",
 	"platIsPrebuiltAutogen":	"false",
@@ -391,70 +391,70 @@ TRACE::2024-10-24.17:35:15::SCWWriter::formatted JSON is {
 				}]
 		}]
 }
-KEYINFO::2024-10-24.17:35:15::SCWPlatform::updated the xpfm file.
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:15::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+KEYINFO::2024-10-24.23:33:02::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::Saving the mss changes C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::Found a swdesign opened with the mssfile.
-TRACE::2024-10-24.17:35:15::SCWMssOS::Completed writemss as part of save.
-TRACE::2024-10-24.17:35:15::SCWMssOS::Commit changes completed.
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:15::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::Saving the mss changes C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-24.23:33:02::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-24.23:33:02::SCWMssOS::Commit changes completed.
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:15::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:15::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWWriter::formatted JSON is {
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWWriter::formatted JSON is {
 	"platformName":	"mb_usb_hdmi_top",
 	"sprVersion":	"2.0",
 	"mode":	"gui",
 	"dsaType":	"Fixed",
 	"platformDesc":	"mb_usb_hdmi_top",
-	"platHandOff":	"C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
+	"platHandOff":	"C:/Users/theox/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
 	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
 	"deviceType":	"FPGA",
 	"platIsPrebuiltAutogen":	"false",
@@ -504,82 +504,82 @@ TRACE::2024-10-24.17:35:15::SCWWriter::formatted JSON is {
 				}]
 		}]
 }
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:15::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:15::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::Saving the mss changes C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::Found a swdesign opened with the mssfile.
-TRACE::2024-10-24.17:35:15::SCWMssOS::Completed writemss as part of save.
-TRACE::2024-10-24.17:35:15::SCWMssOS::Commit changes completed.
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:15::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::Saving the mss changes C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-24.23:33:02::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-24.23:33:02::SCWMssOS::Commit changes completed.
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:15::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:15::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWWriter::formatted JSON is {
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWWriter::formatted JSON is {
 	"platformName":	"mb_usb_hdmi_top",
 	"sprVersion":	"2.0",
 	"mode":	"gui",
 	"dsaType":	"Fixed",
 	"platformDesc":	"mb_usb_hdmi_top",
-	"platHandOff":	"C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
+	"platHandOff":	"C:/Users/theox/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
 	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
 	"deviceType":	"FPGA",
 	"platIsPrebuiltAutogen":	"false",
@@ -629,95 +629,95 @@ TRACE::2024-10-24.17:35:15::SCWWriter::formatted JSON is {
 				}]
 		}]
 }
-LOG::2024-10-24.17:35:15::SCWPlatform::Started generating the artifacts platform mb_usb_hdmi_top
-TRACE::2024-10-24.17:35:15::SCWPlatform::Sanity checking of platform is completed
-LOG::2024-10-24.17:35:15::SCWPlatform::Started generating the artifacts for system configuration mb_usb_hdmi_top
-LOG::2024-10-24.17:35:15::SCWSystem::Started Processing the domain standalone_microblaze_0
-TRACE::2024-10-24.17:35:15::SCWDomain::Generating domain artifcats
-TRACE::2024-10-24.17:35:15::SCWMssOS::Generating standalone artifcats
-TRACE::2024-10-24.17:35:15::SCWMssOS:: Copying the user libraries. 
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:15::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+LOG::2024-10-24.23:33:02::SCWPlatform::Started generating the artifacts platform mb_usb_hdmi_top
+TRACE::2024-10-24.23:33:02::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-24.23:33:02::SCWPlatform::Started generating the artifacts for system configuration mb_usb_hdmi_top
+LOG::2024-10-24.23:33:02::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-10-24.23:33:02::SCWDomain::Generating domain artifcats
+TRACE::2024-10-24.23:33:02::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-24.23:33:02::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::Completed writing the mss file at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
-TRACE::2024-10-24.17:35:15::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
-TRACE::2024-10-24.17:35:15::SCWMssOS::BSP is already built. skipping the bsp build ... 
-TRACE::2024-10-24.17:35:15::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
-TRACE::2024-10-24.17:35:15::SCWMssOS::skipping the bsp build ... 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Copying to export directory.
-TRACE::2024-10-24.17:35:15::SCWMssOS:: Checking if to create the Supporting Applications
-TRACE::2024-10-24.17:35:15::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
-LOG::2024-10-24.17:35:15::SCWSystem::Completed Processing the domain standalone_microblaze_0
-LOG::2024-10-24.17:35:15::SCWSystem::Completed Processing the sysconfig mb_usb_hdmi_top
-LOG::2024-10-24.17:35:15::SCWPlatform::Completed generating the artifacts for system configuration mb_usb_hdmi_top
-TRACE::2024-10-24.17:35:15::SCWPlatform::Started preparing the platform 
-TRACE::2024-10-24.17:35:15::SCWSystem::Writing the bif file for system config mb_usb_hdmi_top
-TRACE::2024-10-24.17:35:15::SCWSystem::dir created 
-TRACE::2024-10-24.17:35:15::SCWSystem::Writing the bif 
-TRACE::2024-10-24.17:35:15::SCWPlatform::Started writing the spfm file 
-TRACE::2024-10-24.17:35:15::SCWPlatform::Started writing the xpfm file 
-TRACE::2024-10-24.17:35:15::SCWPlatform::Completed generating the platform
-TRACE::2024-10-24.17:35:15::SCWMssOS::Saving the mss changes C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::Found a swdesign opened with the mssfile.
-TRACE::2024-10-24.17:35:15::SCWMssOS::Completed writemss as part of save.
-TRACE::2024-10-24.17:35:15::SCWMssOS::Commit changes completed.
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:15::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::Completed writing the mss file at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-24.23:33:02::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-24.23:33:02::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-24.23:33:02::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-10-24.23:33:02::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-10-24.23:33:02::SCWMssOS::Copying to export directory.
+TRACE::2024-10-24.23:33:02::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-24.23:33:02::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-24.23:33:02::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-10-24.23:33:02::SCWSystem::Completed Processing the sysconfig mb_usb_hdmi_top
+LOG::2024-10-24.23:33:02::SCWPlatform::Completed generating the artifacts for system configuration mb_usb_hdmi_top
+TRACE::2024-10-24.23:33:02::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-24.23:33:02::SCWSystem::Writing the bif file for system config mb_usb_hdmi_top
+TRACE::2024-10-24.23:33:02::SCWSystem::dir created 
+TRACE::2024-10-24.23:33:02::SCWSystem::Writing the bif 
+TRACE::2024-10-24.23:33:02::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-24.23:33:02::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-24.23:33:02::SCWPlatform::Completed generating the platform
+TRACE::2024-10-24.23:33:02::SCWMssOS::Saving the mss changes C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-24.23:33:02::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-24.23:33:02::SCWMssOS::Commit changes completed.
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:15::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to open the hw design at C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA given C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA absoulate path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform::DSA directory C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Platform Path C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
-TRACE::2024-10-24.17:35:15::SCWPlatform:: Unique name xilinx:::0.0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
-TRACE::2024-10-24.17:35:15::SCWPlatform::Found the Hw Db part of the input DSA
-TRACE::2024-10-24.17:35:15::SCWMssOS::Checking the sw design at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWMssOS::DEBUG:  swdes dump  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to open the hw design at C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA given C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA absoulate path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform::DSA directory C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Platform Path C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-24.23:33:02::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-24.23:33:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-24.23:33:02::SCWMssOS::Checking the sw design at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
 
-TRACE::2024-10-24.17:35:15::SCWMssOS::Sw design exists and opened at  C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
-TRACE::2024-10-24.17:35:15::SCWWriter::formatted JSON is {
+TRACE::2024-10-24.23:33:02::SCWMssOS::Sw design exists and opened at  C:/Users/theox/Desktop/ece385_labs/lab6_1/workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-24.23:33:02::SCWWriter::formatted JSON is {
 	"platformName":	"mb_usb_hdmi_top",
 	"sprVersion":	"2.0",
 	"mode":	"gui",
 	"dsaType":	"Fixed",
 	"platformDesc":	"mb_usb_hdmi_top",
-	"platHandOff":	"C:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
+	"platHandOff":	"C:/Users/theox/Desktop/ece385_labs/lab6_1/mb_usb_hdmi_top.xsa",
 	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
 	"deviceType":	"FPGA",
 	"platIsPrebuiltAutogen":	"false",
@@ -767,4 +767,4 @@ TRACE::2024-10-24.17:35:15::SCWWriter::formatted JSON is {
 				}]
 		}]
 }
-KEYINFO::2024-10-24.17:35:15::SCWPlatform::updated the xpfm file.
+KEYINFO::2024-10-24.23:33:02::SCWPlatform::updated the xpfm file.

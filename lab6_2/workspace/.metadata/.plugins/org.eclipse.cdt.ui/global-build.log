@@ -1,0 +1,5 @@
+Nothing to build in platform 'mb_usb_hdmi_top'
+
+01:12:20 **** Incremental Build of configuration Debug for project mb_usb ****
+make all 
+make: Nothing to be done for 'all'.

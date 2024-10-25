@@ -24,9 +24,6 @@ set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==mb_usb_gpio
 # IP: bd/mb_usb/ip/mb_usb_mdm_1_0/mb_usb_mdm_1_0.xci
 set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==mb_usb_mdm_1_0 || ORIG_REF_NAME==mb_usb_mdm_1_0} -quiet] -quiet
 
-# IP: bd/mb_usb/ip/mb_usb_microblaze_0_0/mb_usb_microblaze_0_0.xci
-set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==mb_usb_microblaze_0_0 || ORIG_REF_NAME==mb_usb_microblaze_0_0} -quiet] -quiet
-
 # IP: bd/mb_usb/ip/mb_usb_microblaze_0_axi_intc_0/mb_usb_microblaze_0_axi_intc_0.xci
 set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==mb_usb_microblaze_0_axi_intc_0 || ORIG_REF_NAME==mb_usb_microblaze_0_axi_intc_0} -quiet] -quiet
 
@@ -63,4 +60,7 @@ set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==mb_usb_spi_
 # IP: bd/mb_usb/ip/mb_usb_timer_usb_0/mb_usb_timer_usb_0.xci
 set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==mb_usb_timer_usb_0 || ORIG_REF_NAME==mb_usb_timer_usb_0} -quiet] -quiet
 
-# XDC: c:/Users/tyxiong2/Desktop/ece385_labs/lab6_1/lab6_1.gen/sources_1/bd/mb_usb/mb_usb_ooc.xdc
+# IP: bd/mb_usb/ip/mb_usb_microblaze_0_0/mb_usb_microblaze_0_0.xci
+set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==mb_usb_microblaze_0_0 || ORIG_REF_NAME==mb_usb_microblaze_0_0} -quiet] -quiet
+
+# XDC: c:/Users/theox/Desktop/ece385_labs/lab6_1/lab6_1.gen/sources_1/bd/mb_usb/mb_usb_ooc.xdc
