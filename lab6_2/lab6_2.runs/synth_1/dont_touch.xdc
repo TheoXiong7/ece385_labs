@@ -63,4 +63,4 @@ set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==mb_usb_axi_
 # IP: bd/mb_usb/ip/mb_usb_xlconcat_0_0/mb_usb_xlconcat_0_0.xci
 set_property KEEP_HIERARCHY SOFT [get_cells -hier -filter {REF_NAME==mb_usb_xlconcat_0_0 || ORIG_REF_NAME==mb_usb_xlconcat_0_0} -quiet] -quiet
 
-# XDC: c:/Users/theox/Desktop/ece385_labs/lab6_2/lab6_2.gen/sources_1/bd/mb_usb/mb_usb_ooc.xdc
+# XDC: c:/Users/tyxiong2/Desktop/ece385_labs/lab6_2/lab6_2.gen/sources_1/bd/mb_usb/mb_usb_ooc.xdc

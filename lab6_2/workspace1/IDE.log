@@ -1,0 +1,17 @@
+13:07:08 DEBUG : Logs will be stored at 'C:/Users/tyxiong2/Desktop/ece385_labs/lab6_2/workspace1/IDE.log'.
+13:07:11 INFO  : Registering command handlers for Vitis TCF services
+13:07:11 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\tyxiong2\Desktop\ece385_labs\lab6_2\workspace1\temp_xsdb_launch_script.tcl
+13:07:12 INFO  : Platform repository initialization has completed.
+13:07:13 INFO  : XSCT server has started successfully.
+13:07:13 INFO  : plnx-install-location is set to ''
+13:07:13 INFO  : Successfully done setting XSCT server connection channel  
+13:07:13 INFO  : Successfully done query RDI_DATADIR 
+13:07:13 INFO  : Successfully done setting workspace for the tool. 
+13:08:00 INFO  : Result from executing command 'getProjects': mb_usb_hdmi_top
+13:08:00 INFO  : Result from executing command 'getPlatforms': xilinx_vck190_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_202220_1/xilinx_vck190_base_202220_1.xpfm;xilinx_vck190_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_dfx_202220_1/xilinx_vck190_base_dfx_202220_1.xpfm;xilinx_vmk180_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vmk180_base_202220_1/xilinx_vmk180_base_202220_1.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+13:08:01 WARN  : An unexpected exception occurred in the module 'platform project logging'
+13:08:02 INFO  : Platform 'mb_usb_hdmi_top' is added to custom repositories.
+13:08:04 INFO  : Platform 'mb_usb_hdmi_top' is added to custom repositories.
+13:08:54 INFO  : Result from executing command 'getProjects': mb_usb_hdmi_top
+13:08:54 INFO  : Result from executing command 'getPlatforms': mb_usb_hdmi_top|C:/Users/tyxiong2/Desktop/ece385_labs/lab6_2/workspace1/mb_usb_hdmi_top/export/mb_usb_hdmi_top/mb_usb_hdmi_top.xpfm;xilinx_vck190_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_202220_1/xilinx_vck190_base_202220_1.xpfm;xilinx_vck190_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vck190_base_dfx_202220_1/xilinx_vck190_base_dfx_202220_1.xpfm;xilinx_vmk180_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_vmk180_base_202220_1/xilinx_vmk180_base_202220_1.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+13:08:55 INFO  : Checking for BSP changes to sync application flags for project 'mb_usb'...
